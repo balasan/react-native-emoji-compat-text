@@ -1,3 +1,4 @@
+import React from "react";
 import { requireNativeComponent, Text, Platform } from "react-native";
 
 const RNEmojiCompatText = requireNativeComponent("RNEmojiCompatText");

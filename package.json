@@ -1,6 +1,6 @@
 {
   "name": "react-native-emoji-compat-text",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "EmojiCompat wrapper component for Text views",
   "main": "index.js",
   "repository": "git@github.com:bankifyio/react-native-emoji-compat-text.git",

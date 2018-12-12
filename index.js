@@ -4,7 +4,7 @@ import { requireNativeComponent, Text, Platform } from "react-native";
 const RNEmojiCompatText = requireNativeComponent("RNEmojiCompatText");
 function EmojiCompatTextAndroid(props) {
   return (
-    <RNEmojiCompatText>
+    <RNEmojiCompatText {...props}>
       <Text {...props} />
     </RNEmojiCompatText>
   );

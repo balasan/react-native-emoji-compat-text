@@ -1,4 +1,4 @@
-package io.bankify.RNEmojiCompat;
+package io.bankify.emojicompat;
 
 import android.text.Layout;
 import android.text.Spannable;

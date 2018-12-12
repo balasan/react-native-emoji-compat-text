@@ -1,4 +1,4 @@
-package io.bankify.RNEmojiCompat;
+package io.bankify.emojicompat;
 
 import android.app.Application;
 import android.support.text.emoji.EmojiCompat;

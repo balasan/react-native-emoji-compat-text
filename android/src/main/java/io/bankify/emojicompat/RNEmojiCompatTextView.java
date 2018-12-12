@@ -5,7 +5,7 @@
  * https://github.com/facebook/react-native/blob/master/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextView.java
  */
 
-package io.bankify.RNEmojiCompat;
+package io.bankify.emojicompat;
 
 import android.support.text.emoji.widget.EmojiAppCompatTextView;
 
